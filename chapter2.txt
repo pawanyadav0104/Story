@@ -2,4 +2,5 @@
  command 
  git add
  ls
+ git branch 
  
