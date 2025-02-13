@@ -1,0 +1,5 @@
+ I am learning many things regarding the git and git hub 
+ command 
+ git add
+ ls
+ 
